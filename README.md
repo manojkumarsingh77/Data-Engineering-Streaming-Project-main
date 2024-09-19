@@ -1,5 +1,7 @@
 # Data-Engineering-Streaming-Project
 ## **Introduction: Building a Dynamic Data Engineering Project**
+![image](https://github.com/user-attachments/assets/da6c1a4c-fc56-41ce-9be0-ef87f50e5909)
+
 https://miro.medium.com/v2/resize:fit:1100/format:webp/1*EX6HLGMcGzQYKO_6BnDhiQ.gif
 
 In our rapidly evolving digital age, data engineering has emerged as the backbone of the modern data-driven world. We're surrounded by an ever-increasing volume of data, and the ability to process and analyze this data in real-time is becoming a necessity rather than a luxury. In this guide, we'll delve deep into constructing a robust data pipeline, leveraging a combination of Kafka for data streaming, Spark for processing, Airflow for orchestration, Docker for containerization, S3 for storage, and Python as our primary scripting language.
